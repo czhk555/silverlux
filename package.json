@@ -35,7 +35,7 @@
     "react-helmet": "^6.0.0",
     "uuid": "^7.0.0",
     "vanilla-cookieconsent": "^2.8.9",
-    "yarn": "1.22.4"
+    "yarn": "1.22.22"
   },
   "keywords": [
     "gatsby",
